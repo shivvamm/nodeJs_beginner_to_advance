@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Full Tutorial from beginner to advance in NodeJs",
+  "main": "1-globals.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivvamm/nodeJs_beginner_to_advance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivvamm/nodeJs_beginner_to_advance/issues"
+  },
+  "homepage": "https://github.com/shivvamm/nodeJs_beginner_to_advance#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  }
+}
