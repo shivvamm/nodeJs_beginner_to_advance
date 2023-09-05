@@ -3,13 +3,17 @@
   "version": "1.0.0",
   "description": "Tutorial form FrontendMasters",
   "main": "index.js",
-  "type":"module",
-   "bin": {
+  "type": "module",
+  "bin": {
     "note": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Shivam",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^4.6.8",
+    "yargs": "^17.7.2"
+  }
 }
