@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Tutorial form FrontendMasters",
   "main": "index.js",
+  "type":"module",
    "bin": {
     "note": "./index.js"
   },
